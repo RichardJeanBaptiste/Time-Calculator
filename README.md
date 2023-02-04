@@ -1,3 +1,6 @@
 # Time Calculator
 
-This is the boilerplate for the Time Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
+This is a time calculator program built using python
+
+
+![Screenshot from 2023-02-03 12-38-47](https://user-images.githubusercontent.com/21143667/216791638-52bba9a4-1e36-4316-b242-443ab5d89dd3.png)
